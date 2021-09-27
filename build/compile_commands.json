@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/chengq/libtorch_test/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -isystem /usr/local/include -isystem /usr/local/include/opencv -isystem /home/chengq/libtorch/include -isystem /home/chengq/libtorch/include/torch/csrc/api/include -isystem /usr/local/cuda-10.2/include  -g   -D_GLIBCXX_USE_CXX11_ABI=0 -o CMakeFiles/example.dir/example.cpp.o -c /home/chengq/libtorch_test/example.cpp",
+  "file": "/home/chengq/libtorch_test/example.cpp"
+}
+]
